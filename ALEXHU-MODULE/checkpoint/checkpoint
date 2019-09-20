@@ -1,0 +1,6 @@
+model_checkpoint_path: "/media/workdir/hujh/AlexHu-predrnn/checkpointnew/model.ckpt-5000"
+all_model_checkpoint_paths: "/media/workdir/hujh/AlexHu-predrnn/checkpointnew/model.ckpt-4960"
+all_model_checkpoint_paths: "/media/workdir/hujh/AlexHu-predrnn/checkpointnew/model.ckpt-4970"
+all_model_checkpoint_paths: "/media/workdir/hujh/AlexHu-predrnn/checkpointnew/model.ckpt-4980"
+all_model_checkpoint_paths: "/media/workdir/hujh/AlexHu-predrnn/checkpointnew/model.ckpt-4990"
+all_model_checkpoint_paths: "/media/workdir/hujh/AlexHu-predrnn/checkpointnew/model.ckpt-5000"

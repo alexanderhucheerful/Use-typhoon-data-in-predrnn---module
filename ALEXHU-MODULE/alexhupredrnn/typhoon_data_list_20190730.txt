@@ -1,0 +1,29 @@
+--------train dataset--------
+round1_train_A_part1.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_A_part1.tar.gz
+round1_train_A_part2.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_A_part2.tar.gz
+round1_train_A_part3.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_A_part3.tar.gz
+round1_train_A_part4.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_A_part4.tar.gz
+round1_train_B_part1.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_B_part1.tar.gz
+round1_train_B_part2.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_B_part2.tar.gz
+round1_train_B_part3.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_B_part3.tar.gz
+round1_train_B_part4.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_B_part4.tar.gz
+round1_train_C_part1.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_C_part1.tar.gz
+round1_train_C_part2.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_C_part2.tar.gz
+round1_train_C_part3.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_C_part3.tar.gz
+round1_train_C_part4.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_training/round1_train_C_part4.tar.gz
+
+--------test dataset--------
+round1_testset.tar.gz
+http://tianchi-media.oss-cn-beijing.aliyuncs.com/231729_typhoon/round1/round1_testing/round1_testset.tar.gz
